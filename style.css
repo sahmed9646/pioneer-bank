@@ -25,3 +25,9 @@ body {
   color: white;
   border-radius: 10px;
 }
+.money-access {
+  margin: 50px auto;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #ddd;
+}
